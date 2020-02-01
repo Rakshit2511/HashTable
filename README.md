@@ -1,2 +1,4 @@
 # HashTable
-Hash Table Implementation. Technology used : C
+Hash Table Implementation.
+
+Technology used : C
