@@ -1,0 +1,50 @@
+
+Department Name/ Institute Name 	Department of Computer Science and Engineering / Chitkara University Institute of Engineering & Technology
+Program Name	BE-Computer Science and Engineering
+Course Code	CSL4209
+Course Name	Client Side Technologies
+Lecture / Tutorial (per week)	4-0-0	Course Credits	4
+Course Coordinator Name	Er. Saravjeet Singh
+
+Scope and Objectives of the Course
+To provide knowledge of markup language (HTML) and to enable students to build user friendly websites.
+To provide the skills and project-based experience needed for entry into web design and development careers.
+Students will be able to use a variety of strategies and tools to create websites.
+Recommended Books
+	RB1: ‘Web Enabled Commercial Application Development using HTML, JavaScript, DHTML and PHP’ by        Ivan Bayross , 4th Edition, BPB Publications.
+	RB2: ‘The Complete Reference HTML & XHTML’ by Thomas Powell, 4th Edition, Tata McGraw-Hill 	  Company Limited.
+RB3: ‘HTML 4.0’ by E. Stephen Mack, Janan Platt, Anaya Multimedia publication.
+RB4: ‘Mastering HTML, CSS & JAVA Script Web Publishing’ by Laura Lemay, Rafe Coburn, Jennifer Kyrnin,     7th edition, SAMS publication.  
+RB 5: ‘Learning web designing: a beginner's guide to HTML, CSS, JavaScript,and web graphics’ by Niederst    Robbins, 4th Edition, Oreilly Publication.
+RB 6: ‘jQuery in action’ by Bear Bibeault, 2nd Edition, dreamtech publication.
+RB7: Html5 Black Book : Covers Css3 Javascript Xml Xhtml Ajax Php And Jquery
+by Kogent Learning Solutions Inc.
+3.  Other readings and relevant websites
+Sr No.	Link of Journals, Magazines, websites and Research Papers 
+1.	https://www.w3schools.com/
+2.	http://www.quirksmode.org/dom/intro.html
+3.	https://www.codeschool.com/courses/front-end-foundations
+4.	https://www.w3schools.com/jquery/ 
+5.	http://nptel.ac.in/courses/106105084/13 
+Course Plan
+Lecture Number
+	Topics
+1	Web programming and HTML5: Introduction to web programming, client server architecture, DNS, latest trends, static and dynamic content, WWW3C standards, difference between HTML & HTML5. 
+2	Basics of HTML5, understanding document tags.
+HTML5 formatting: Formatting tags e.g. font, Bold, italic, super script, subscript, delete, mark etc. 
+3	HTML5 Quotations: q tag, blockquote, Code, abbreviation, address, cite, bi-directional override tag, header, footer and output Tag, meta data and meta tag
+4-5	Lists: Ordered, Unordered, Definition List.
+Introduction to LINK: anchor element, internal linking and external linking, attribute of anchor tag
+6-7	Images: image basics, image tag, Image alignment, image map and all the attributes of image and map.
+8-9	Table: Table tag with attributes like width, alignment, cell spacing, cell padding, cell alignment, borders rules , rows, cells, rowspan,  colspan, header, footer, body sections, captions and background images
+10-11	HTML Frames: Introduction to frameset tag, frame tag, iframes and respective attributes.
+12-14	Form: Creating form, add labels, text box, check box, radio buttons, password, pull down menus and button to a form , Use of clickable image as a submit button, pass information between forms (action ,method).
+15-17	DHTML and CSS: Introduction to DHTML, introduction to CSS3, ways to Insert CSS in HTML document (External Style Sheet, Internal Style Sheet, Inline Styles), CSS id and class, div and span tag.
+18-20	CSS background: background color, background image (repeat horizontally or vertically, set position and no-repeat)
+CSS Text: text color, text alignment, text decoration
+CSS Font: style, family, Size
+CSS lists, CSS Links
+21-23	CSS Tables: Table borders, collapse borders, table width and height ,table text alignment, table padding, table color
+CSS border: style, width, color
+CSS margin: margin, padding
+	
